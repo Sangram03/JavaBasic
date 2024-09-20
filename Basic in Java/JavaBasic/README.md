@@ -1,2 +1,0 @@
-# JavaBasic
-some java Concepts
