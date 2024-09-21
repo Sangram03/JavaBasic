@@ -3,7 +3,7 @@ some java Concepts
 <<<<<<< HEAD
 public class Basic 
 =======
->>>>>>> c94332ccf65c7148771b8882926d9c7effe0d1c3
+
   /*
    ? =>main() method in java
    ? =>System
