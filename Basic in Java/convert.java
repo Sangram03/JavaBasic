@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class convert
+class  Convert
 {
     public static void main(String args[])
     {
