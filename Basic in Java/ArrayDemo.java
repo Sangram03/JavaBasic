@@ -6,6 +6,7 @@ public class ArrayDemo {
         //Declare an array
         int intArray[];
 
+
         //Initialize an array of 8 int
         // Set aside memory of 8 int
         intArray=new int[8];
@@ -42,7 +43,7 @@ public class ArrayDemo {
         System.out.println("Data at index" +index+ ":"+intArray[index]);
 
 
-        //Operation:Search using index
+        // ? Operation:Search using index
         //Search an element using index
 
         int value =4;
