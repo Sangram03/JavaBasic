@@ -5,9 +5,9 @@ class TimeSpaceComplexity{
 
         /*
          * Time complexity mainly three types
-         ? Best Case
-         ? Average Case
-         ? Worst Case
+         ? Best Case (BIG Omega )1
+         ? Average Case(BIG Thita )n+1/2
+         ? Worst Case (BIG O )n
          * 
          * 
          * 
