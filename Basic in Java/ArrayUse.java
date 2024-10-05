@@ -23,7 +23,7 @@ class ArrayUse{
         // }
 
         //main out put for searching
-        for(int i=0;i<numbers.length;i++){
+        for(int i=1;i<numbers.length;i++){
             if(numbers[i]== x){
                 System.out.println("x found at index :"+i);
             }
