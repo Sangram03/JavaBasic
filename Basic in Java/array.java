@@ -3,8 +3,8 @@ public class array {
         String[] cars ={"Volvo", "BMW","Ford"};
         //indexing
         System.err.println(cars[0]);
-   int myNum=15; 
-   System.out.println(myNum);
+        int myNum=15; 
+        System.out.println(myNum);
 
 
         //Array [] name
