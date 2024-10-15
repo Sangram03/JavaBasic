@@ -1,6 +1,5 @@
 # JavaBasic
 some java Concepts
-<<<<<<< HEAD
 public class Basic 
 =======
 
@@ -21,6 +20,8 @@ public class Basic
    * comment
   */
   //=========================================================================++++++++++===================================================
+# JAVA BASIC
+  
   /*
    ! =>JAVA VARIABLES
    ! => String
