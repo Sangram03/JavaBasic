@@ -1,6 +1,5 @@
 # JavaBasic
-some java Concepts
-public class Basic 
+some java Concepts 
 =======
 
   /*
