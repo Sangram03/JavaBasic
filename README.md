@@ -84,7 +84,7 @@ some java Concepts
  * double[]Represent a 64bit double-precision floating-point number.
  * Character char [''] Represent a single character
  * Boolean[true/false]
- *DATA TYPE ==================== SIZE ============================== DESCRIPTION ==============================================================================    EXP ================
+ *DATA TYPE =======SIZE ===DESCRIPTION ==============================================================================    EXP ================
  *  byte  ====================== 1byte ===========================  Stores wholes numbers from -128 to 127                                               ====
  *  short ====================== 2byte ===========================  Stores whole numbers from -32,768 to 32,767                                          =====
  *  int  ====================== 4byte ===========================  Stores whole numbers from -2,147,487,648 to 2,147,483,647                             ====  int myNUM =5;
