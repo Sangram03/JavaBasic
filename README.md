@@ -108,7 +108,7 @@ some java Concepts
  * A primitive type starts with a lowercase letter,while non-primitive types starts with an uppercase letter.
  * Exp:- String,Arrays,Classes,Interface,etc.
  */
-//=========================================================================++++++++++===================================================
+//=========================================================================++++++++++==================================================
  /*
   * Some important methods in the Object class
   ! =>equals(): Compares two objects for equality.
