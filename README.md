@@ -1,7 +1,5 @@
 # JavaBasic
-some java Concepts
-<<<<<<< HEAD
-public class Basic 
+some java Concepts 
 =======
 
   /*
@@ -21,6 +19,8 @@ public class Basic
    * comment
   */
   //=========================================================================++++++++++===================================================
+# JAVA BASIC
+  
   /*
    ! =>JAVA VARIABLES
    ! => String
@@ -84,7 +84,7 @@ public class Basic
  * double[]Represent a 64bit double-precision floating-point number.
  * Character char [''] Represent a single character
  * Boolean[true/false]
- *DATA TYPE ==================== SIZE ============================== DESCRIPTION ==============================================================================    EXP ================
+ *DATA TYPE =======SIZE ===DESCRIPTION ==============================================================================    EXP ================
  *  byte  ====================== 1byte ===========================  Stores wholes numbers from -128 to 127                                               ====
  *  short ====================== 2byte ===========================  Stores whole numbers from -32,768 to 32,767                                          =====
  *  int  ====================== 4byte ===========================  Stores whole numbers from -2,147,487,648 to 2,147,483,647                             ====  int myNUM =5;
@@ -108,7 +108,7 @@ public class Basic
  * A primitive type starts with a lowercase letter,while non-primitive types starts with an uppercase letter.
  * Exp:- String,Arrays,Classes,Interface,etc.
  */
-//=========================================================================++++++++++===================================================
+//=========================================================================++++++++++==================================================
  /*
   * Some important methods in the Object class
   ! =>equals(): Compares two objects for equality.
