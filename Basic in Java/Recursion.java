@@ -1,5 +1,6 @@
 public class Recursion {
     public static void printNumber(int n){
+        //base case
         if(n==0){
             return;
         }
