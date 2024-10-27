@@ -3,13 +3,13 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 
-public class index {
+public class Index {
     private JFrame frame;
     private JTextArea textArea;
     private JScrollPane scrollPane;
     private JButton saveButton, clearButton;
 
-    public index() {
+    public Index() {
         // Create the frame
         frame = new JFrame("Writing Pad");
         frame.setSize(600, 400);
@@ -80,6 +80,6 @@ public class index {
 
     public static void main(String[] args) {
         // Create and run the writing pad application
-        SwingUtilities.invokeLater(() -> new index());
+        SwingUtilities.invokeLater(() -> new Index());
     }
 }
